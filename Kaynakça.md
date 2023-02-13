@@ -5,7 +5,7 @@
 - [W3School HTML Tutorial](https://www.w3schools.com/html/)(TR)
 
 
-## Video
+## 📺 Video
 
 - [Github & Github Desktop](https://www.youtube.com/watch?v=gRZW8eTmLMA&ab_channel=KodcuMurat)(TR)
 
