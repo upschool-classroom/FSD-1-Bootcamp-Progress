@@ -10,6 +10,10 @@
 - [Github & Github Desktop](https://www.youtube.com/watch?v=gRZW8eTmLMA&ab_channel=KodcuMurat) (TR)
 - [HTML Tutorial for Beginners: HTML Crash Course - Mosh
 ](https://www.youtube.com/watch?v=qz0aGYrrlhU&list=RDCMUCWv7vMbMWH4-V0ZXdmDpPBA&start_radio=1&rv=qz0aGYrrlhU&t=89&ab_channel=ProgrammingwithMosh) (EN)
+- [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE&ab_channel=TraversyMedia) (EN)
+- [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI&ab_channel=TraversyMedia) (EN)
+- [Bootstrap 5 Crash Course | Website Build & Deploy](https://www.youtube.com/watch?v=4sosXZsdy-s&ab_channel=TraversyMedia) (EN)
+- [CRUD with Blazor in .NET 6 🔥 Full-Stack with a Web API, Entity Framework Core & SQL Server Express](https://www.youtube.com/watch?v=K_P-qJj_8Bg&ab_channel=PatrickGod) (EN)
 
 
 ## ✏️ Medium Documentation: 
