@@ -14,7 +14,7 @@
 - [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI&ab_channel=TraversyMedia) (EN)
 - [Bootstrap 5 Crash Course | Website Build & Deploy](https://www.youtube.com/watch?v=4sosXZsdy-s&ab_channel=TraversyMedia) (EN)
 - [CRUD with Blazor in .NET 6 🔥 Full-Stack with a Web API, Entity Framework Core & SQL Server Express](https://www.youtube.com/watch?v=K_P-qJj_8Bg&ab_channel=PatrickGod) (EN)
-
+- [Web API, Ef Core](https://www.youtube.com/watch?v=nIOqO5N2_ss&ab_channel=MohamadLawand) (EN)
 
 ## ✏️ Medium Documentation: 
 
