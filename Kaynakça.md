@@ -26,7 +26,7 @@
 
 ## Profile
 
-- [Bora Kaşmer Medium](https://borakasmer.medium.com/) (Profil)
+- [Bora Kaşmer Medium](https://borakasmer.medium.com/) (TR)
 
 ## 📝 Exams
 
