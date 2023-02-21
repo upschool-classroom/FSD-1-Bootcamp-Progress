@@ -2,6 +2,7 @@
 
 ## 📄 Documentation: 
 
+- [Clean Code Notes](https://github.com/JuanCrg90/Clean-Code-Notes) (EN)
 - [W3School HTML Tutorial](https://www.w3schools.com/html/) (TR)
 - [W3School Git](https://www.w3schools.com/git/default.asp?remote=github) (EN)
 - [W3School Github](https://www.w3schools.com/git/git_remote_getstarted.asp?remote=github) (EN)
