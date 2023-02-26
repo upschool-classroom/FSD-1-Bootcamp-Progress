@@ -12,4 +12,8 @@
 5. Daha sonra verilecek Ödev 2 için **"Ödev2"** adında, içinde **REDME.md** dosyası bulunan bir klasör oluşturulmalı.
 
 
-[İncelemeniz Adına Örnek Repo](https://github.com/serkanalc/UpSchool-FullStack-Development-Bootcamp)
+[*İncelemeniz Adına Örnek Repo*](https://github.com/serkanalc/UpSchool-FullStack-Development-Bootcamp)
+
+
+
+## -> Ödev Teslim Tarihi: 28 Şubat Salı 20.00
