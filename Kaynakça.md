@@ -3,6 +3,7 @@
 ## 📄 Documentation: 
 
 - [Clean Code Notes](https://github.com/JuanCrg90/Clean-Code-Notes) (EN)
+- [Single Responsibility Prensibi Nedir ?](https://gokhana.medium.com/single-responsibility-prensibi-nedir-kod-örneğiyle-soli̇d-c8b1602be602) (TR)
 - [W3School HTML Tutorial](https://www.w3schools.com/html/) (EN)
 - [W3School Git](https://www.w3schools.com/git/default.asp?remote=github) (EN)
 - [W3School Github](https://www.w3schools.com/git/git_remote_getstarted.asp?remote=github) (EN)
