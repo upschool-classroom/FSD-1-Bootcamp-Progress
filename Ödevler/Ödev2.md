@@ -6,4 +6,6 @@ Bu ödevimizde PaswordGenerator uygulamamızdaki kullanıcı deneyimini iyileşt
 3. Undo (geri alma) mekanizması ilk kez böyle bir challange ile karşılaştığınızda kafa karıştırıcı olabilir. Bu yüzden ödevimizdeki işlemlerimiz için “Memento Pattern” adlı tasarım desenine göz atarak fikir edinmenizi öneririm.
 
 
-* Ödev ile ilgili fikir edinebilmek adına  https://dotnet.gg adresinde uygulamalı örneği ile değerlendirebilirsiniz.
+*Ödev ile ilgili fikir edinebilmek adına  https://dotnet.gg adresinde uygulamalı örneği ile değerlendirebilirsiniz*
+
+**Ödev Teslim Tarihi : 7 Mart Salı 20.00**
