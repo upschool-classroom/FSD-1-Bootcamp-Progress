@@ -23,7 +23,7 @@
 - [CRUD with Blazor in .NET 6 🔥 Full-Stack with a Web API, Entity Framework Core & SQL Server Express](https://www.youtube.com/watch?v=K_P-qJj_8Bg&ab_channel=PatrickGod) (EN)
 - [Web API, Ef Core](https://www.youtube.com/watch?v=nIOqO5N2_ss&ab_channel=MohamadLawand) (EN)
 - [RESTful APIs in 100 Seconds](https://www.youtube.com/watch?v=-MTSQjw5DrM) (EN)
-- [What Is REST API? Examples And How To Use It](https://www.youtube.com/watch?v=-mN3VyJuCjM)
+- [What Is REST API? Examples And How To Use It](https://www.youtube.com/watch?v=-mN3VyJuCjM) (EN)
 
 ## ✏️ Medium Documentation: 
 
